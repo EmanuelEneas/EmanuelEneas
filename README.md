@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/0pW3a4l" width="100%" />
+<img src="https://imgur.com/a/jsheoP8" width="100%" />
 
 # 👋 ¡Hola! Soy **Emanuel Cáceres**
 
