@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **Emanuel Caceres**
+<img src="https://imgur.com/a/0pW3a4l" width="100%" />
+
+# 👋 ¡Hola! Soy **Emanuel Cáceres**
 
 ### 🚀 Full Stack & Mobile Developer  
-### 📱 React Native • 🤖 IA & Automatización • 🎥 Contenido • 📈 Marketing Digital
+### 📱 React Native • 🤖 IA & Automatización • 🤝 Chatbots • 🎥 Contenido • 📈 Marketing Digital
 
 _creo productos reales, aprendo todos los días y siempre estoy construyendo algo nuevo._
 
@@ -17,7 +19,7 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/bbadge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 ### **Backend & Dev**
@@ -55,9 +57,10 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 ---
 
-### 🏋️ **Gym-App – App de Entrenamiento**
-✔️ Hecha con **React Native + Expo**  
-✔️ Rutinas, videos, progreso y nutrición  
+### 🏋️ **Gym-App – App de Entrenamiento con Chatbot**
+✔️ React Native + Expo  
+✔️ Rutinas, videos, progreso, nutrición  
+✔️ Chatbot integrado para tips y guía en tiempo real  
 🔄 En testing interno  
 🔗 **Disponible para testers en Play Store**
 
@@ -95,5 +98,4 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ### ✨ _“Cada proyecto que hago me deja mejor preparado para el siguiente.”_
 
 </div>
-
 
