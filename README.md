@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://ibb.co/1fd97msL" width="100%" />
+<img src="TU_LINK_DIRECTO_DE_IMAGEN_AQUÍ" width="100%" />
 
-# 👋 ¡Hola! Soy **Emanuel Caceres**
+# 👋 ¡Hola! Soy **Emanuel Cáceres**
 
 ### 🚀 Full Stack & Mobile Developer  
 ### 📱 React Native • 🤖 IA & Automatización • 🤝 Chatbots • 🎥 Contenido • 📈 Marketing Digital
@@ -15,28 +15,45 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 ## 🧩 Tecnologías & Herramientas
 
+### **Lenguajes**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+
+---
+
 ### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+---
 
 ### **Backend & Dev**
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
-![API](https://img.shields.io/badge/APIs-000?style=for-the-badge&logo=fastapi&logoColor=FF6F00)
+![REST](https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=fastapi&logoColor=FF6F00)
+
+---
 
 ### **Bases de Datos**
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=74aadb)
 
+---
+
 ### **IA & Automatización**
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n&logoColor=FE552E)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-000?style=for-the-badge&logo=authelia&logoColor=0A66C2)
+![Chatbots](https://img.shields.io/badge/Chatbots-000?style=for-the-badge&logo=android&logoColor=3DDC84)
+
+---
 
 ### **Edición & Contenido**
 ![Premiere](https://img.shields.io/badge/Premiere-000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
@@ -98,4 +115,5 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ### ✨ _“Cada proyecto que hago me deja mejor preparado para el siguiente.”_
 
 </div>
+
 
