@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy **Emanuel Cáceres**
+# 👋 ¡Hola! Soy **Emanuel Caceres**
 
 ### 🚀 Full Stack & Mobile Developer  
 ### 📱 React Native • 🤖 IA & Automatización • 🎥 Contenido • 📈 Marketing Digital
@@ -17,7 +17,7 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/bbadge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 ### **Backend & Dev**
@@ -50,7 +50,8 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ✔️ Desarrollada con **React Native + Expo**  
 ✔️ +500 descargas orgánicas  
 ✔️ Chatbot, recursos, profesionales y más  
-🔗 **https://mirutatea.com**
+🔗 **Sitio Web:** https://mirutatea.com  
+🔗 **Play Store:** https://play.google.com/store/search?q=mirutatea&c=apps
 
 ---
 
@@ -94,4 +95,5 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ### ✨ _“Cada proyecto que hago me deja mejor preparado para el siguiente.”_
 
 </div>
+
 
