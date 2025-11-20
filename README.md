@@ -2,7 +2,7 @@
 
 <img src="TU_LINK_DIRECTO_DE_IMAGEN_AQUÍ" width="100%" />
 
-# 👋 ¡Hola! Soy **Emanuel Cáceres**
+# 👋 ¡Hola! Soy **Emanuel Caceres**
 
 ### 🚀 Full Stack & Mobile Developer  
 ### 📱 React Native • 🤖 IA & Automatización • 🤝 Chatbots • 🎥 Contenido • 📈 Marketing Digital
