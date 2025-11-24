@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ibb.co/vCzDxdfB" width="100%" />
+<img src="https://i.ibb.co/NgY76Nf3/git.jpg" width="100%" style="border-radius: 16px;" />
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
 
@@ -106,7 +106,7 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 - 📩 **Email:** emaimsa@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/emanuel-caceres-lk/  
-- 🌐 **Portfolio:** https://codificatuexito.com/  
+- 🌐 **Portfolio:** https://codificatuexito.com/
 
 ---
 
@@ -115,5 +115,4 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 ### ✨ _“Cada proyecto que hago me deja mejor preparado para el siguiente.”_
 
 </div>
-
 
