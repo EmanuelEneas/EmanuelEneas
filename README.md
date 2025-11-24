@@ -1,4 +1,9 @@
-<div align="center"
+<div align="center">
+  <img src="https://github.com/EmanuelEneas/EmanuelEneas/blob/main/Flux_Dev_Ultrawide_LinkedIn_banner_1584x396_gradient_backgroun_2.jpg?raw=true" style="width: 100%; border-radius: 16px;" />
+</div>
+
+<br>
+
 
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
