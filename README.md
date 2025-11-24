@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/EmanuelEneas/EmanuelEneas/blob/main/git.png?raw=true" width="100%" />
+<img src="https://ibb.co/vCzDxdfB" width="100%" />
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
 
