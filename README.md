@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="https://i.ibb.co/NgY76Nf3/git.jpg"
-     style="height: 200px; width: 100%; object-fit: contain; border-radius: 16px;" />
+<div align="center"
 
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
