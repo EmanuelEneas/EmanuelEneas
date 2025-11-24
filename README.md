@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/NgY76Nf3/git.jpg" style="height: 750px; border-radius: 16px;" />
+<img src="https://i.ibb.co/NgY76Nf3/git.jpg" style="height: 2050px; border-radius: 16px;" />
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
 
