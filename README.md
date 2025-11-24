@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/EmanuelEneas/EmanuelEneas/blob/main/Flux_Dev_1920x450_wide_banner_with_digital_agency_style_Neon_g_0%20(1).jpg?raw=true" style="width: 100%; border-radius: 16px;" />
+  <img src="https://github.com/EmanuelEneas/EmanuelEneas/blob/main/Lucid_Origin_ultra_wide_banner_1920x450_dark_futuristic_neon_a_2.jpg?raw=true" />
 </div>
 
 <br>
