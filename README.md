@@ -10,7 +10,7 @@
 
 <br>
 
-# 👋 ¡Hola! Soy **Emanuel Cáceres**
+# 👋 ¡Hola! Soy **Emanuel Caceres**
 
 ### 🚀 Full Stack & Mobile Developer  
 ### 📱 React Native • 🤖 IA & Automatización • 🤝 Chatbots • 🎥 Contenido • 📈 Marketing Digital  
