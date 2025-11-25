@@ -1,10 +1,12 @@
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/EmanuelEneas/EmanuelEneas/main/Lucid_Origin_ultra_wide_banner_1920x450_dark_futuristic_neon_a_2.jpg" 
+    src="https://github.com/EmanuelEneas/EmanuelEneas/releases/download/v1/Lucid_Origin_ultra_wide_banner_1920x450_dark_futuristic_neon_a_2.jpg"
     style="width:100%; border-radius:16px;" 
     alt="Banner Emanuel Cáceres"
   />
 </div>
+
+
 
 <br>
 
