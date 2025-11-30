@@ -6,8 +6,6 @@
   />
 </div>
 
-
-
 <br>
 
 # 👋 ¡Hola! Soy **Emanuel Caceres**
@@ -78,24 +76,25 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 ---
 
-
 ### 🍾 **Tienda de Bebidas – Ecommerce en React**
 ✔️ React + Context API  
 ✔️ Carrito de compras dinámico  
-✔️ Envío de pedido por WhatsApp  
+✔️ Flujo de compra simple  
+✔️ Envío automático del pedido + comprobante por WhatsApp  
 ✔️ Deploy en Netlify  
 🔗 Demo: https://emacaceresbebidas.netlify.app/
----
 
+---
 
 ### 🌐 **CodificaTuÉxito – Agencia Digital / Portfolio**
 ✔️ Desarrollo web & mobile  
-✔️ IA, automatización, publicidad y contenido  
+✔️ IA, automatización, funnels y contenido  
 🔗 https://codificatuexito.com/
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelEneas&show_icons=true&theme=tokyonight&hide_border=true)
