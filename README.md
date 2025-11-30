@@ -86,6 +86,18 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 ---
 
+### 🛒 **Ecommerce FakeStore – React + Carrito + Filtros**
+✔️ React + Hooks  
+✔️ Consumo de API pública FakeStore  
+✔️ Carrito persistente en localStorage  
+✔️ Búsqueda por título  
+✔️ Filtro por precio y orden asc/desc  
+✔️ Rutas: Home / Productos  
+✔️ Responsive mobile + desktop  
+🔗 Demo: https://emaecommerse.netlify.app/
+
+---
+
 ### 🌐 **CodificaTuÉxito – Agencia Digital / Portfolio**
 ✔️ Desarrollo web & mobile  
 ✔️ IA, automatización, funnels y contenido  
