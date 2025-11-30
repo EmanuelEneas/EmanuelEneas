@@ -78,6 +78,16 @@ _creo productos reales, aprendo todos los días y siempre estoy construyendo alg
 
 ---
 
+
+### 🍾 **Tienda de Bebidas – Ecommerce en React**
+✔️ React + Context API  
+✔️ Carrito de compras dinámico  
+✔️ Envío de pedido por WhatsApp  
+✔️ Deploy en Netlify  
+🔗 Demo: https://emacaceresbebidas.netlify.app/
+---
+
+
 ### 🌐 **CodificaTuÉxito – Agencia Digital / Portfolio**
 ✔️ Desarrollo web & mobile  
 ✔️ IA, automatización, publicidad y contenido  
